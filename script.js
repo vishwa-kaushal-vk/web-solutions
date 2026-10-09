@@ -1,6 +1,5 @@
 /*
   VK Web Solutions — static-site interactions.
-
 */
 const VK_WEB_CONFIG = {
   whatsappNumber: "94743102003"
